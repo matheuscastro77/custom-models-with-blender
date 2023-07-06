@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://custom-models-with-blender.vercel.app/
+[Custom Models with Blender](https://custom-models-with-blender.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
